@@ -12,8 +12,8 @@ git log: Este comando se usa para inicializar github en consola
 
 git branch: Este comando se usa para crear una nueva rama
 
-git add: Este comando se usa para guardar los cambios realizados
-
+git add: Este comando se usa para guardar los cambios realizados para poder realizar un commit
+ 
 git commit: Este comando se usa para darle un nombre a los cambios ralizados
 
 git push: Este comando se usa para subir los cambios a al repositorio de github
