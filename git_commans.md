@@ -19,3 +19,4 @@ git commit: Este comando se usa para darle un nombre a los cambios ralizados
 git push: Este comando se usa para subir los cambios a al repositorio de github
 
 git merge: Este comando se usa para unir el branch actual con el especificado
+
